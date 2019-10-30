@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+    /**
+    *
+    *  @author:    Farhan Islam <farhan@orvisoft.com>
+    *  @module:    OrviSoft Attribute Groups (https://github.com/askwhyweb/Attribute-Groups-Magento2)
+    *
+    **/
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
+    <menu>
+        <add id="OrviSoft_AttributeGroups::groups" title="Attribute Groups" module="OrviSoft_AttributeGroups" sortOrder="50" parent="Magento_Catalog::inventory" action="attributegroups/groups" resource="OrviSoft_AttributeGroups::groups"/>
+        <add id="OrviSoft_AttributeGroups::attributes" title="Attribute Wrappers" module="OrviSoft_AttributeGroups" sortOrder="60" parent="Magento_Catalog::inventory"  action="attributegroups/attributes" resource="OrviSoft_AttributeGroups::attributes"/>
+    </menu>
+</config>

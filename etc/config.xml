@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--
+    /**
+    *
+    *  @author:    Farhan Islam <farhan@orvisoft.com>
+    *  @module:    OrviSoft Attribute Groups (https://github.com/askwhyweb/Attribute-Groups-Magento2)
+    *
+    **/
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+	<default>
+		<attribute_groups>
+			<configuration>
+				<status>0</status>
+			</configuration>
+		</attribute_groups>
+	</default>
+</config>

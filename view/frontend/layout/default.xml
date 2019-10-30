@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+    /**
+    *
+    *  @author:    Farhan Islam <farhan@orvisoft.com>
+    *  @module:    OrviSoft Attribute Groups (https://github.com/askwhyweb/Attribute-Groups-Magento2)
+    *
+    **/
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="OrviSoft_AttributeGroups::css/attribute-groups.css"/>
+    </head>
+</page>
